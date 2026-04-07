@@ -1,6 +1,6 @@
 # Lab 02 - Build a Semantic Kernel Agent
 
-### Estimated time: 120 Minutes
+### Estimated Duration: 120 Minutes
 
 In this lab, you will take everything learned so far and build our Agentic App. You will work in a Python Jupyter Notebook in VS Code to create a Semantic Kernel Agent that can reason over the legal cases database deployed earlier. Additionally, you will incorporate external web service data and use memory to improve the agent’s responses over time.
 
@@ -137,7 +137,7 @@ In this task, we will create and test multiple plugins, including DatabaseSearch
 
    ![](Images/Cell6.png)
 
-1. Run the cell **Part 3.8: Re-Assemble our Agent with New Advanced PlugIns and Re-Test**. In this step, we re-assemble the full agent by attaching all of the custom plugins we’ve created so far: **DatabaseSearchPlugin**, **SemanticRerankingPlugin**, and **GraphDatabasePlugin**. Observe the output and notice how we asked for **10 cases**, and this time received **10 cases**.
+1. Run the cell **Part 3.8: Re-Assemble our Agent with New Advanced PlugIns and Re-Test**. In this step, we re-assemble the full agent by attaching all of the custom plugins we’ve created so far: **DatabaseSearchPlugin**, **SemanticRerankingPlugin**, and **GraphDatabasePlugin**. Observe the output and notice how we asked for **10 cases**, and this time received more than **2 cases**.
      
    ![](Images/Cell7.png)   
 

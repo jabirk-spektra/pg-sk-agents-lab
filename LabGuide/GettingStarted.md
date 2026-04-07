@@ -8,7 +8,7 @@ Large Language Models (LLMs) enhance modern applications with advanced semantic 
 
 The lab begins by setting up a data environment and configuring Azure AI extensions before moving into text search using pattern matching. It then introduces semantic vector search, showing how vector indexes dramatically improve search accuracy and relevance. Building on this, the lab incorporates the GraphRAG pattern using Apache AGE, adding graph database functionality to PostgreSQL. This integration enables agents to query both structured and graph-based data, enriching results with interconnected knowledge extracted from relationships within the dataset.
 
-## Objective 
+## Objectives
 
 By the end of this lab, you will be able to:
 
@@ -16,7 +16,7 @@ By the end of this lab, you will be able to:
 
 - **Lab 02 - Build a Semantic Kernel Agentic**: This lab involves building a Semantic Kernel Agentic app in a Python Jupyter Notebook using VS Code, enabling the agent to reason over a legal cases database, integrate external web data, and utilize memory for improved responses over time.
 
-## Prerequisites
+## Pre-requisites
 
 Participants should have:
 
@@ -115,7 +115,7 @@ Learner Support Contacts:
 - Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@spektrasystems.com)
 - Live Chat Support: https://cloudlabs.ai/labs-support
 
-Click **Next** from the bottom right corner to embark on your Lab journey!
+Click **Next >>** from the bottom right corner to embark on your Lab journey!
 
 ![](Images/1nct.png)
 

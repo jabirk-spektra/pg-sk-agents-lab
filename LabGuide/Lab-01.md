@@ -1,6 +1,6 @@
 # Lab 01 - Enable Intelligent Search in PostgreSQL with Vectors and DiskANN
 
-### Estimated time: 120 Minutes
+### Estimated Duration: 120 Minutes
 
 This lab focuses on establishing a connection between Visual Studio Code and a PostgreSQL database, launching the PSQL command-line shell, and integrating AI-driven semantic search capabilities. It involves configuring Azure AI extensions, generating and storing embedding vectors using the Azure OpenAI embedding API, and implementing semantic vector search with the DiskANN index for high-performance similarity queries. The lab demonstrates how to enhance traditional text search with advanced semantic search techniques and prepares data environments for agent-based AI applications by combining structured data, vector embeddings, and AI-powered search queries within PostgreSQL.
 
@@ -434,6 +434,6 @@ In this lab, you have accomplished the following:
 - Launched and ran commands on PSQL Command Line Shell
 - Ran Semantic Search Query
 
-## You have successfully finished the lab. Click Next to continue to the next lab.
+## You have successfully completed the lab. Click on **Next >>** from the bottom right corner to proceed with the next lab.
 
 ![](Images/2nct.png)
