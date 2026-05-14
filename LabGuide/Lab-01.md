@@ -268,7 +268,7 @@ In this task, you will initialize the database with sample tables and data, conf
 
 In this task, you will explore how to leverage **AI-driven features within PostgreSQL** to enhance data processing and analysis. These capabilities help automate tasks, improve data insights, and provide advanced functionalities beyond traditional SQL queries.
 
-1. In **VS Code**, expand the **Databases** node, right-click on the **cases (1)** database, and select the **New Query (2)** option.
+1. In **VS Code**, expand the **Databases (1)** node, right-click on the **cases (2)** database, and select the **New Query (3)** option.
 
    ![](Images/newquery.png) 
 
