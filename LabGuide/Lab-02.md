@@ -174,6 +174,9 @@ In this task, we will create and test multiple plugins, including DatabaseSearch
 - Added WeatherPlugin to extend agent capability for external data queries.
 - Enabled semantic memory and reassembled the agent with all plugins for final testing.
 
+## Conclusion
+Congratulations on completing this lab. In this workshop, you explored how to build intelligent AI applications using Semantic Kernel, Azure OpenAI, PostgreSQL vector search, and GraphRAG capabilities. You configured semantic search with embeddings and DiskANN indexing, and built a Semantic Kernel Agentic application capable of reasoning over data, integrating external APIs, and generating context-aware responses. These exercises provided hands-on experience with modern AI orchestration, hybrid search, and scalable AI application development using PostgreSQL and Azure AI services.
+
 ## Reference links
 - https://learn.microsoft.com/en-us/semantic-kernel/overview
 - https://learn.microsoft.com/en-us/semantic-kernel/concepts/ai-services
