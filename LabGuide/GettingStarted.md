@@ -2,6 +2,12 @@
 
 ### Overall Estimated Duration: 4 Hours
 
+## Lab Scenarios
+
+Contoso Legal Services is modernizing its legal research platform by implementing an Agentic AI solution powered by Azure OpenAI, Azure Database for PostgreSQL, Semantic Kernel, and GraphRAG. The company wants to enable legal analysts to quickly discover relevant case law, understand relationships between legal entities, and obtain AI-generated insights from large volumes of legal data.
+
+As an AI Engineer at Contoso, you will build an intelligent Retrieval-Augmented Generation (RAG) application by enabling semantic search with vector embeddings and DiskANN indexing, integrating graph-based knowledge retrieval using Apache AGE, and developing a Semantic Kernel agent capable of delivering accurate, context-aware responses from legal datasets.
+
 ## Overview
 
 Large Language Models (LLMs) enhance modern applications with advanced semantic capabilities, enabling natural language understanding and contextual search. This lab focuses on building an agent-driven Retrieval-Augmented Generation (RAG) application that explores a U.S. Case Law dataset to retrieve factual information. You’ll work with Azure Database for PostgreSQL, Visual Studio Code, and the Semantic Kernel Agent Framework, while applying practical AI and information retrieval techniques such as using vector embeddings within databases and implementing the DiskANN index for fast, high-dimensional vector search.
@@ -80,7 +86,7 @@ Feel free to **Start, Stop, or Restart (2)** your virtual machine as needed from
 
 ## Lab Guide Zoom In/Zoom Out
 
-To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
+To adjust the zoom level for the environment page, click the **A↕** icon located next to the timer in the lab environment.
 
 ![](./Images/zumm.png)
 

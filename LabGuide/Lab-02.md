@@ -2,6 +2,12 @@
 
 ### Estimated Duration: 120 Minutes
 
+## Lab Scenario
+
+Contoso Legal Services wants to enhance its legal research platform by deploying an intelligent AI agent that can analyze legal case data and provide contextual responses to user queries. As an AI Engineer at Contoso, you will build a Semantic Kernel Agent using Python and VS Code, enabling it to reason over the legal cases database created in the previous lab. You will also integrate external web services and memory capabilities to help the agent deliver more accurate, relevant, and context-aware responses over time.
+
+## Overview
+
 In this lab, you will take everything learned so far and build our Agentic App. You will work in a Python Jupyter Notebook in VS Code to create a Semantic Kernel Agent that can reason over the legal cases database deployed earlier. Additionally, you will incorporate external web service data and use memory to improve the agent’s responses over time.
 
 ## Objectives
