@@ -2,19 +2,19 @@
 
 ### Overall Estimated Duration: 4 Hours
 
-## Lab Scenarios
+## 📘 Lab Scenarios
 
 Contoso Legal Services is modernizing its legal research platform by implementing an Agentic AI solution powered by Azure OpenAI, Azure Database for PostgreSQL, Semantic Kernel, and GraphRAG. The company wants to enable legal analysts to quickly discover relevant case law, understand relationships between legal entities, and obtain AI-generated insights from large volumes of legal data.
 
 As an AI Engineer at Contoso, you will build an intelligent Retrieval-Augmented Generation (RAG) application by enabling semantic search with vector embeddings and DiskANN indexing, integrating graph-based knowledge retrieval using Apache AGE, and developing a Semantic Kernel agent capable of delivering accurate, context-aware responses from legal datasets.
 
-## Overview
+## 📖 Overview
 
 Large Language Models (LLMs) enhance modern applications with advanced semantic capabilities, enabling natural language understanding and contextual search. This lab focuses on building an agent-driven Retrieval-Augmented Generation (RAG) application that explores a U.S. Case Law dataset to retrieve factual information. You’ll work with Azure Database for PostgreSQL, Visual Studio Code, and the Semantic Kernel Agent Framework, while applying practical AI and information retrieval techniques such as using vector embeddings within databases and implementing the DiskANN index for fast, high-dimensional vector search.
 
 The lab begins by setting up a data environment and configuring Azure AI extensions before moving into text search using pattern matching. It then introduces semantic vector search, showing how vector indexes dramatically improve search accuracy and relevance. Building on this, the lab incorporates the GraphRAG pattern using Apache AGE, adding graph database functionality to PostgreSQL. This integration enables agents to query both structured and graph-based data, enriching results with interconnected knowledge extracted from relationships within the dataset.
 
-## Objectives
+## 🎯 Objectives
 
 By the end of this lab, you will be able to:
 
@@ -22,22 +22,22 @@ By the end of this lab, you will be able to:
 
 - **Lab 02 - Build a Semantic Kernel Agentic**: This lab involves building a Semantic Kernel Agentic app in a Python Jupyter Notebook using VS Code, enabling the agent to reason over a legal cases database, integrate external web data, and utilize memory for improved responses over time.
 
-## Pre-requisites
+## ⚙️ Pre-requisites
 
 Participants should have:
 
 - Basic understanding of Azure services such as Azure OpenAI and models.
 - Basic familiarity with PostgreSQL database concepts and operations.
 
-## Architecture
+## 🏗️ Architecture
 
 This architecture represents an agent-driven application workflow designed to build an intelligent agent that retrieves knowledge graph information from a dataset and enriches it with AI-generated insights. Developers build and manage the app using Visual Studio Code and Jupyter Notebooks. User prompts are processed through the Semantic Kernel framework to generate vector embeddings and execute structured tools. These embeddings enable hybrid semantic searches through a PostgreSQL database extended with graph capabilities. Azure OpenAI enhances the retrieved data with contextual reasoning, while semantic re-ranking ensures the most relevant, connected information is presented to the user.
 
-## Architecture Diagram
+## 🖼️ Architecture Diagram
 
 ![](./Images/Architecture.png)
 
-### Explanation of Components
+### 🔍 Explanation of Components
 
 - **Visual Studio Code & Jupyter Notebook:** Developer environments for building, testing, and managing AI agents, Semantic Kernel configurations, and code integrations.
 - **Code Base:** Contains the agent logic, plugin definitions, AI workflows, and configurations that orchestrate interactions between Semantic Kernel, databases, and external APIs.
@@ -50,7 +50,7 @@ This architecture represents an agent-driven application workflow designed to bu
 - **Azure PostgreSQL Graph & Relational Database:** Stores structured data alongside graph-based relationships using Apache AGE, enabling both relational queries and graph traversals for knowledge graph retrieval.
 - **Azure AI Extension:** Extends PostgreSQL with vector search and DiskANN indexing, enabling fast, scalable, high-dimensional semantic search directly within the database.
 
-## Getting Started with the lab
+## 🚀 Getting Started with the lab
 
 Welcome to your Build Agentic AI with Semantic Kernel and GraphRAG on PostgreSQL Workshop. Let's begin by making the most of this experience:
 
@@ -112,7 +112,7 @@ To adjust the zoom level for the environment page, click the **A↕** icon locat
 
    ![](Images/staysignn.png)
 
-## Support Contact
+## 📞 Support Contact
 
 The CloudLabs support team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
 
