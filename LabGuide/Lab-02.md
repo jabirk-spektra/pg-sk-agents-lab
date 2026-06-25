@@ -24,7 +24,7 @@ In this task, we will create and test multiple plugins, including DatabaseSearch
 
    ![](Images/L2-S0.png)    
 
-1. Make sure **Python 3.10.0** is selected, as shown in the screenshot below. If not, please perform the steps mentioned below.
+1. Make sure **Python 3.12.0** is selected, as shown in the screenshot below. If not, please perform the steps mentioned below.
 
    ![](Images/PostgreSQL-image33.png)
    
@@ -50,7 +50,7 @@ In this task, we will create and test multiple plugins, including DatabaseSearch
 
       ![](Images/PostgreSQL-image32.png)
    
-   -  Select **Python Environments** and then choose **Python 3.10.0**.
+   -  Select **Python Environments** and then choose **Python 3.12.0**.
 
       ![](Images/L2-S23.png)
 
