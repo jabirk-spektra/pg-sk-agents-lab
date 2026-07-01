@@ -30,7 +30,7 @@ In this task, we will create and test multiple plugins, including DatabaseSearch
    
    -  To set up the kernel, click on **Select Kernel (1)** and then select **Install/Enable suggested extension Python + Jupyter (2)**.
 
-      ![](Images/PostgreSQL-image27.png)
+      ![](Images/6.png)
 
    -  You will receive a notification, select the **More actions (1)** icon, then click **Manage Extension (2)**.
 
