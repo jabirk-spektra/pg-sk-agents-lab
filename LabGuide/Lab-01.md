@@ -58,7 +58,7 @@ In this task, you will connect a PostgreSQL Flexible Server on Azure to VS Code 
 
 1. Once inside **VS Code**, click the **Elephant icon (1)** in the left navigation panel. After the extension loads, click the **+ Add Connection (2)** button in the POSTGRESQL panel.
 
-   ![](Images/PostgreSQL-image12.png)
+   ![](Images/L1T1S9.png)
 
    >**Note**: Please wait for a while until the connection is established.
    
@@ -131,9 +131,14 @@ In this task, you will initialize the database with sample tables and data, conf
 
    ![](Images/bi4.png) 
 
-1. Select **Yes, I trust the authors**.
+1. If prompted Select **Yes, I trust the authors**.
 
    ![](Images/L1-S21.png)
+
+   > Note: If there is no pop as such, and see a notification as Restricted mpde, click on **Manage**. 
+   > ![](Images/L1T2S3Ni.png)
+   > Then on Workspace Trust wizard click on **Trust**.
+   > ![](Images/L1T2S3Nii.png)
 
 1. Expand the **Scripts folder (1)**, open **get_env.ps1 (2)**, update the Resource Group name as **SKAgents-<inject key="Deployment ID" enableCopy="false"/> (3)**, and save the file.
 
@@ -157,7 +162,7 @@ In this task, you will initialize the database with sample tables and data, conf
 
 1. Back in the terminal, type **1** and press **Enter** to select the default subscription that appears.
 
-    ![](Images/PostgreSQL-image20.png)
+    ![](Images/L1T2S8.png)
 
 1. Navigate to the scripts folder by running the following command:
   
