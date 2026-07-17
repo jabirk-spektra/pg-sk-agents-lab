@@ -82,7 +82,7 @@ In this task, we will create and test multiple plugins, including DatabaseSearch
 
    - **AZURE_OPENAI_ENDPOINT**: Paste the value of **AZURE_OPENAI_ENDPOINT** that you copied in the previous step **(1)**.
    - **AZURE_OPENAI_KEY**: Paste the value of **AZURE_OPENAI_KEY** that you copied in the previous step **(2)**.
-   - **AZURE_OPENAI_DEPLOYMENT**: Update the value to **gpt-4.1** **(3)**
+   - **AZURE_OPENAI_DEPLOYMENT**: Update the value to **gpt-5.4** **(3)**
    - **host**: Paste the value of **DB_CONFIG - HOST** that you copied in the previous step **(4)**.
    - **user**: Enter **<inject key="AzureAdUserEmail"></inject>** **(5)**.
    - **password**: Paste the value of **DB_CONFIG - PASSWORD** that you copied in the previous step **(6)**.
