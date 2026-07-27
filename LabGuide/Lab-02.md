@@ -58,7 +58,7 @@ In this task, we will create and test multiple plugins, including DatabaseSearch
 
    >**Note:** You can now proceed with running the **`lab.ipynb`** file to continue with the lab. If you encounter any confusion, please refer to the lab guide starting from here.
 
-1. Run the **first** cell under **Part 3.2: Setup the Agent App Python imports**. This installs Python packages listed in the requirements.txt file.
+1. Scroll down, and run the **first** cell under **Part 3.2: Setup the Agent App Python imports**. This installs Python packages listed in the requirements.txt file.
 
    ![](Images/localsetup.png)
 
