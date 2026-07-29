@@ -40,13 +40,13 @@ In this task, we will create and test multiple plugins, including DatabaseSearch
 
    -  On the **Jupyter** page, select **Switch to Pre-Release Version**.
 
-      ![](Images/PostgreSQL-image30.png)
+      ![](Images/PostgreSQL-image30-n.png)
 
-   -  Next, from the left pane, select **Extensions (1)**, then choose **Jupyter (2)**. Click **Update Code (3)**, and wait for about 1 minute. You will then receive a notification to update.
+   -  Next, from the left pane, select **Extensions (1)**, then choose **Jupyter (2)**. Click **Restart Extensions (3)**, and wait for about 1 minute. You will then receive a notification to update.
 
-      ![](Images/PostgreSQL-image31.png)
+      ![](Images/PostgreSQL-image31-n.png)
 
-   -  Click **Update**. This will update the extension and restart VS Code automatically.   
+   -  In case you see this page, click **Update**. This will update the extension and automatically restart Visual Studio Code.   
 
       ![](Images/PostgreSQL-image32.png)
    
@@ -172,7 +172,7 @@ In this task, we will create and test multiple plugins, including DatabaseSearch
 > - If not, carefully read the error message and retry the step, following the instructions in the lab guide. 
 > - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
 
-<validation step="b3412c61-ddf9-4f2d-bdcf-a93aa4feb0df" />  
+<validation step="7bad7688-5891-416f-9d91-2b6173d0f927" />  
 
 ## 🧾 Summary
 In this exercise, you have completed the following:
